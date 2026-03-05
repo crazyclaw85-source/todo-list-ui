@@ -1,0 +1,18 @@
+{
+  "name": "workspace-mc-37afd8b7-4d6b-4196-8b9c-3d2ce67d4f3e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "shadcn-ui": "^0.9.5",
+    "tailwindcss": "^4.2.1",
+    "typescript": "^5.9.3"
+  }
+}
